@@ -1,5 +1,5 @@
 var score = 0;
-var timer = 6;
+var timer = 60;
 var hit = 0;
 
 function startTimer() {
